@@ -82,7 +82,6 @@ Courses: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
 
 📧 Email: thaivo.software@gmail.com  
 🌍 Location: Ho Chi Minh City, Vietnam / Jeonbuk, South Korea  
-📱 Phone: +84 707 003 894  
 
 ---
 
